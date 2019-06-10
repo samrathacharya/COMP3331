@@ -1,0 +1,55 @@
+PING www.nus.edu.sg (137.132.21.27) 22(50) bytes of data.
+30 bytes from onenus.nus.edu.sg (137.132.21.27): icmp_req=1 ttl=47 time=142 ms
+30 bytes from maritimeinstitute.nus.edu.sg (137.132.21.27): icmp_req=2 ttl=47 time=142 ms
+30 bytes from chime.nus.edu.sg (137.132.21.27): icmp_req=3 ttl=47 time=143 ms
+30 bytes from scale.nus.edu.sg (137.132.21.27): icmp_req=4 ttl=47 time=142 ms
+30 bytes from healthchoice.nus.edu.sg (137.132.21.27): icmp_req=5 ttl=47 time=142 ms
+30 bytes from tdsi.nus.edu.sg (137.132.21.27): icmp_req=6 ttl=47 time=142 ms
+30 bytes from c4ngp.nus.edu.sg (137.132.21.27): icmp_req=7 ttl=47 time=142 ms
+30 bytes from cibaprocess.nus.edu.sg (137.132.21.27): icmp_req=8 ttl=47 time=141 ms
+30 bytes from iora.nus.edu.sg (137.132.21.27): icmp_req=9 ttl=47 time=142 ms
+30 bytes from lrfi.nus.edu.sg (137.132.21.27): icmp_req=10 ttl=47 time=142 ms
+30 bytes from overseas.nus.edu.sg (137.132.21.27): icmp_req=11 ttl=47 time=142 ms
+30 bytes from cdtl.nus.edu.sg (137.132.21.27): icmp_req=12 ttl=47 time=141 ms
+30 bytes from frmc.nus.edu.sg (137.132.21.27): icmp_req=13 ttl=47 time=157 ms
+30 bytes from empowers.nus.edu.sg (137.132.21.27): icmp_req=14 ttl=47 time=141 ms
+30 bytes from www.annualgiving.nus.edu.sg (137.132.21.27): icmp_req=15 ttl=47 time=142 ms
+30 bytes from yst.nus.edu.sg (137.132.21.27): icmp_req=16 ttl=47 time=141 ms
+30 bytes from careers.nus.edu.sg (137.132.21.27): icmp_req=17 ttl=47 time=142 ms
+30 bytes from www.dentistry.nus.edu.sg (137.132.21.27): icmp_req=18 ttl=47 time=142 ms
+30 bytes from www.procurement.nus.edu.sg (137.132.21.27): icmp_req=19 ttl=47 time=142 ms
+30 bytes from rapids.nus.edu.sg (137.132.21.27): icmp_req=20 ttl=47 time=142 ms
+30 bytes from www.yst.nus.edu.sg (137.132.21.27): icmp_req=21 ttl=47 time=141 ms
+30 bytes from www.overseas.nus.edu.sg (137.132.21.27): icmp_req=22 ttl=47 time=142 ms
+30 bytes from nusync.nus.edu.sg (137.132.21.27): icmp_req=23 ttl=47 time=141 ms
+30 bytes from www.rst.nus.edu.sg (137.132.21.27): icmp_req=24 ttl=47 time=142 ms
+30 bytes from www.sde.nus.edu.sg (137.132.21.27): icmp_req=25 ttl=47 time=141 ms
+30 bytes from scale.nus.edu.sg (137.132.21.27): icmp_req=26 ttl=47 time=141 ms
+30 bytes from www.mem.nus.edu.sg (137.132.21.27): icmp_req=27 ttl=47 time=141 ms
+30 bytes from www.nus.edu.sg (137.132.21.27): icmp_req=28 ttl=47 time=154 ms
+30 bytes from c4ngp.nus.edu.sg (137.132.21.27): icmp_req=29 ttl=47 time=142 ms
+30 bytes from sde.nus.edu.sg (137.132.21.27): icmp_req=30 ttl=47 time=141 ms
+30 bytes from www.ari.nus.edu.sg (137.132.21.27): icmp_req=31 ttl=47 time=142 ms
+30 bytes from lrfi.nus.edu.sg (137.132.21.27): icmp_req=32 ttl=47 time=159 ms
+30 bytes from nus.edu.sg (137.132.21.27): icmp_req=33 ttl=47 time=141 ms
+30 bytes from ocs.nus.edu.sg (137.132.21.27): icmp_req=34 ttl=47 time=141 ms
+30 bytes from frmc.nus.edu.sg (137.132.21.27): icmp_req=35 ttl=47 time=142 ms
+30 bytes from ids.nus.edu.sg (137.132.21.27): icmp_req=36 ttl=47 time=141 ms
+30 bytes from mem.nus.edu.sg (137.132.21.27): icmp_req=37 ttl=47 time=141 ms
+30 bytes from yst.nus.edu.sg (137.132.21.27): icmp_req=38 ttl=47 time=141 ms
+30 bytes from did.nus.edu.sg (137.132.21.27): icmp_req=39 ttl=47 time=141 ms
+30 bytes from huj.nus.edu.sg (137.132.21.27): icmp_req=40 ttl=47 time=142 ms
+30 bytes from www.procurement.nus.edu.sg (137.132.21.27): icmp_req=41 ttl=47 time=142 ms
+30 bytes from bdg.nus.edu.sg (137.132.21.27): icmp_req=42 ttl=47 time=142 ms
+30 bytes from ddu.nus.edu.sg (137.132.21.27): icmp_req=43 ttl=47 time=141 ms
+30 bytes from www.overseas.nus.edu.sg (137.132.21.27): icmp_req=44 ttl=47 time=142 ms
+30 bytes from m.nus.edu.sg (137.132.21.27): icmp_req=45 ttl=47 time=142 ms
+30 bytes from mi.nus.edu.sg (137.132.21.27): icmp_req=46 ttl=47 time=142 ms
+30 bytes from www.sde.nus.edu.sg (137.132.21.27): icmp_req=47 ttl=47 time=142 ms
+30 bytes from neurophenocore.nus.edu.sg (137.132.21.27): icmp_req=48 ttl=47 time=141 ms
+30 bytes from maritimeinstitute.nus.edu.sg (137.132.21.27): icmp_req=49 ttl=47 time=141 ms
+30 bytes from www.nus.edu.sg (137.132.21.27): icmp_req=50 ttl=47 time=141 ms
+
+--- www.nus.edu.sg ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49006ms
+rtt min/avg/max/mdev = 141.833/143.019/159.220/3.610 ms
